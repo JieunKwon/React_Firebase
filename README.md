@@ -40,7 +40,7 @@ Step 4: (Optional) Install CLI and deploy to Firebase Hosting
 
 Step 5: Access Firebase in your app
 
-Additional setup options
+- Additional setup options
 
 https://firebase.google.com/docs/web/setup#additional_setup_options
 
