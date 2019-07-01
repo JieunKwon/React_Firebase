@@ -27,7 +27,7 @@ Firebase provides
 
 > Add Firebase to JavaScript project
 
-https://firebase.google.com/docs/web/setup
+Ref from https://firebase.google.com/docs/web/setup
 
 
 Step 1: Create a Firebase project
@@ -48,7 +48,7 @@ https://firebase.google.com/docs/web/setup#additional_setup_options
 > Simple Firebase Test
 
 
-- by using script source link into head tag
+- Insert the firebase library source link into head tag
 
       <script src="https://www.gstatic.com/firebasejs/5.0.4/firebase.js"></script>
 
@@ -67,7 +67,7 @@ https://firebase.google.com/docs/web/setup#additional_setup_options
         };
         firebase.initializeApp(config);
 
-- To create new data, make a variance and use update method
+- To create new data, make a variance and use it with update method
 
         var newPostKey = firebase.database().ref().child('posts').push().key;
 
