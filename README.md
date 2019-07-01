@@ -1,4 +1,6 @@
-# React & Firebase
+# Firebase
+
+@ June, 2019
 
 > What is Firebase?
 
