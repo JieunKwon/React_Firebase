@@ -88,4 +88,4 @@ https://firebase.google.com/docs/web/setup#additional_setup_options
       
 - View the result at the firebase database 
 
-<img src="img/firebasetest.JPG" width="500px">
+<img src="doc/firebasetest.JPG" width="500px">
