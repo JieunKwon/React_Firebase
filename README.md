@@ -69,7 +69,7 @@ https://firebase.google.com/docs/web/setup#additional_setup_options
         };
         firebase.initializeApp(config);
 
-- To create new data, make a variance and use it with update method
+- To create new data, make a variance and use it by update method
 
         var newPostKey = firebase.database().ref().child('posts').push().key;
 
