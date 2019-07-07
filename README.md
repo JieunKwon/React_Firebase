@@ -88,6 +88,6 @@ https://firebase.google.com/docs/web/setup#additional_setup_options
 
       </script>
       
-- View the result at the firebase database 
+- Run the page and View the result at the firebase database 
 
 <img src="doc/firebasetest.JPG" width="500px">
